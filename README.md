@@ -1,7 +1,7 @@
 # veryslowpidhax
 A k11 exploit for the 3DS.
 
-## Versions Support
+## Version Support
 | Version | N3DS | O3DS/2DS |
 | --- | --- | --- |
 | US 11.2?-11.3 | ? | ✓ |

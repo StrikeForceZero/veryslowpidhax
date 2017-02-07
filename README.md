@@ -1,6 +1,14 @@
 # veryslowpidhax
-The slowest arm11 exploit ever for the (N)3DS!
 
-It currently supports firmware 11.2, haven't checked older firmwares so feel free to check if it works if you have 6 years of free time!
+A arm11 exploit for the 3DS!
 
-Credit to Anonymous? who originally made this I simply just cleaned it up
+## Versions it supports
+
+| Version | N3DS | O3DS/2DS |
+| --- | --- | --- |
+| US 11.2?-11.3 | ? | ✓ |
+
+
+## Credit
+
+Anonymous - (I don't know who originally made this so I listed him as anonymous) Originally made this I simply just cleaned it up his work

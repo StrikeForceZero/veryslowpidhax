@@ -8,4 +8,4 @@ A k11 exploit for the 3DS.
 
 
 ## Credit
-Anonymous - (I don't know who originally made this so I listed him as anonymous) Originally made this I simply just cleaned it up his work
+Anonymous - (I don't know who originally made this so I listed him as Anonymous) Originally made this I simply just cleaned up his work.
